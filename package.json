@@ -1,0 +1,18 @@
+{
+  "name": "tdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@affinidi/client-cwe": "^0.0.2-beta",
+    "@affinidi/client-iam": "^0.0.2-beta",
+    "@affinidi/client-vpa": "^0.0.2-beta",
+    "@affinidi/tdk-auth-provider": "^0.0.4-beta"
+  }
+}
